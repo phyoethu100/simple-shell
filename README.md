@@ -1,2 +1,1 @@
-# simple-shell
-Simple shell on Linux
+# Simple Shell
