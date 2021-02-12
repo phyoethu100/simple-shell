@@ -1,12 +1,4 @@
 /**************************************************************
-* Class:  CSC-415-01 Fall 2020
-* Name: Phyoe Thu
-* Student ID: 918656575
-* GitHub ID: phyoethu100
-* Project: Assignment 3 - Simple Shell
-*
-* File: thu_phyoe_HW3_main.c 
-*
 * Description: This program creates a simple shell using fork(),
 * execvp(), and wait(). 
 **************************************************************/
